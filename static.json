@@ -1,7 +1,7 @@
 {
  "headers": {
    "/*": {
-     "X-Author": "kwazili",
+     "X-Author": "enclavedkd",
      "Access-Control-Allow-Origin": "*"
    }
  }
